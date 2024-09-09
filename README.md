@@ -1,2 +1,2 @@
 # Dynamic-Spectrum-Cartography
-Code of numerical results, and real-data validation.
+Code of numerical results, real-world dataset and validation.
